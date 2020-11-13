@@ -5,7 +5,7 @@ This is a create-react-app mini project that uses React.js,Redux,React Hooks,Rea
 
 ### How to start ?
 
--clone
--npm install
--npm audit fix ( optional )
--npm start
+ *clone
+ *npm install
+ *npm audit fix ( optional )
+ *npm start
