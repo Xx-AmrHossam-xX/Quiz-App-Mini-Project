@@ -3,7 +3,7 @@
 This is a create-react-app mini project that uses React.js,Redux,React Hooks,Reactstrap .It features a simple MCQ quiz game
 
 
-###How to start ?
+### How to start ?
 
 -clone
 -npm install
